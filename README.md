@@ -1,1 +1,0 @@
-# vpc.dynamo.task-adi
